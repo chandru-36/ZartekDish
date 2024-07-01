@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "478454853917",
+    "project_id": "zartekdish",
+    "storage_bucket": "zartekdish.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478454853917:android:4a0d0843ebf0516e26f1f4",
+        "android_client_info": {
+          "package_name": "com.example.zartek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478454853917-ivi6pcn9m9hthse27is463kd17s0vigt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsi0Fib3U3sW1VsBF5Qa9pG-xBU8TyXc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478454853917-ivi6pcn9m9hthse27is463kd17s0vigt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "478454853917-9ncrska0l039dq003p0d879ijaeojckq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.zartekdish"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478454853917:android:6fca3ac3d895394426f1f4",
+        "android_client_info": {
+          "package_name": "com.example.zartekdish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478454853917-9b0kioct1kl18368ipa4s4153tbv19dq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zartekdish",
+            "certificate_hash": "d8a543192173368267c4cbee38d80cc39f3d2a67"
+          }
+        },
+        {
+          "client_id": "478454853917-ivi6pcn9m9hthse27is463kd17s0vigt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsi0Fib3U3sW1VsBF5Qa9pG-xBU8TyXc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478454853917-ivi6pcn9m9hthse27is463kd17s0vigt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "478454853917-9ncrska0l039dq003p0d879ijaeojckq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.zartekdish"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
